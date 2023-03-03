@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZDPXzFRisQqoMg/sbUtzYxV875yOHuZZMrb41aVv8Cm6bwLf784Mg66cWgub3d7num1HmJViRIZfW1Vsayco4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\timbi\\source\\repos\\api\\api\\api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\timbi\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

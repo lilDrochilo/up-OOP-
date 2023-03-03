@@ -1,0 +1,6 @@
+C:\Users\timbi\source\repos\PRACT OOP 2.2\OOPLYBR2.2\bin\Debug\OOPLYBR2.2.dll
+C:\Users\timbi\source\repos\PRACT OOP 2.2\OOPLYBR2.2\bin\Debug\OOPLYBR2.2.pdb
+C:\Users\timbi\source\repos\PRACT OOP 2.2\OOPLYBR2.2\obj\Debug\OOPLYBR2.2.csproj.AssemblyReference.cache
+C:\Users\timbi\source\repos\PRACT OOP 2.2\OOPLYBR2.2\obj\Debug\OOPLYBR2.2.csproj.CoreCompileInputs.cache
+C:\Users\timbi\source\repos\PRACT OOP 2.2\OOPLYBR2.2\obj\Debug\OOPLYBR2.2.dll
+C:\Users\timbi\source\repos\PRACT OOP 2.2\OOPLYBR2.2\obj\Debug\OOPLYBR2.2.pdb

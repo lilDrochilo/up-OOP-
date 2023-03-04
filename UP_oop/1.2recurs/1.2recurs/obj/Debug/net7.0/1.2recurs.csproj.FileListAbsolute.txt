@@ -1,0 +1,15 @@
+C:\Users\timbi\source\repos\1.2recurs\1.2recurs\bin\Debug\net7.0\1.2recurs.exe
+C:\Users\timbi\source\repos\1.2recurs\1.2recurs\bin\Debug\net7.0\1.2recurs.deps.json
+C:\Users\timbi\source\repos\1.2recurs\1.2recurs\bin\Debug\net7.0\1.2recurs.runtimeconfig.json
+C:\Users\timbi\source\repos\1.2recurs\1.2recurs\bin\Debug\net7.0\1.2recurs.dll
+C:\Users\timbi\source\repos\1.2recurs\1.2recurs\bin\Debug\net7.0\1.2recurs.pdb
+C:\Users\timbi\source\repos\1.2recurs\1.2recurs\obj\Debug\net7.0\1.2recurs.csproj.AssemblyReference.cache
+C:\Users\timbi\source\repos\1.2recurs\1.2recurs\obj\Debug\net7.0\1.2recurs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timbi\source\repos\1.2recurs\1.2recurs\obj\Debug\net7.0\1.2recurs.AssemblyInfoInputs.cache
+C:\Users\timbi\source\repos\1.2recurs\1.2recurs\obj\Debug\net7.0\1.2recurs.AssemblyInfo.cs
+C:\Users\timbi\source\repos\1.2recurs\1.2recurs\obj\Debug\net7.0\1.2recurs.csproj.CoreCompileInputs.cache
+C:\Users\timbi\source\repos\1.2recurs\1.2recurs\obj\Debug\net7.0\1.2recurs.dll
+C:\Users\timbi\source\repos\1.2recurs\1.2recurs\obj\Debug\net7.0\refint\1.2recurs.dll
+C:\Users\timbi\source\repos\1.2recurs\1.2recurs\obj\Debug\net7.0\1.2recurs.pdb
+C:\Users\timbi\source\repos\1.2recurs\1.2recurs\obj\Debug\net7.0\1.2recurs.genruntimeconfig.cache
+C:\Users\timbi\source\repos\1.2recurs\1.2recurs\obj\Debug\net7.0\ref\1.2recurs.dll
